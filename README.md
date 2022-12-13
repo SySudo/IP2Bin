@@ -1,5 +1,5 @@
 # IP2Bin
 
-Convert ip to binary number and vice versa !!
+Convert IPv4 to Binary number and vice versa !!
 
 **Python3** is used
